@@ -1,2 +1,2 @@
 # Spam_detection
- In this repo I represent a spam detector model source code which was built using Naïve Bayes classifier
+In this repository, I present the source code for a spam detector model built using a Naïve Bayes classifier. Explore the code to understand how the model identifies and classifies spam messages.
